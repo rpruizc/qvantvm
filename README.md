@@ -1,2 +1,2 @@
 # qvantvm
-Quantum COmputer Simulator with V
+Quantum Computer Simulator with V
